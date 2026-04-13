@@ -306,8 +306,5 @@ O projeto é uma aplicação VBA orientada a formulário, com foco em entrada co
 
 ---
 
-## Licença
 
-Defina a licença conforme a política de uso do seu projeto ou da sua empresa.
 
-Se desejar, você pode substituir esta seção por uma licença específica, como MIT, uso interno privado ou outra política aplicável.
